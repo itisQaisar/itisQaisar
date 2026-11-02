@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm an **AI researcher with a background in data science, data engineering, and software development**. I completed an **M2 in Data Science at Université Paris-Saclay (2026)** and conducted research at **Cnam Paris — CEDRIC Laboratory (ISID team)**.
+I'm an **AI researcher with a background in data science, data engineering, and software development**. I completed an **M2 in Data Science at Université Paris-Saclay (2026)** and conducted research at **Cnam Paris - CEDRIC Laboratory (ISID team)**.
 
 My recent work focuses on a practical research question: **How can structured knowledge make vision-language retrieval more accurate, interpretable, and useful?** I investigate the combination of visual-language representations, vector search, and knowledge graphs for multimodal information retrieval, particularly in cultural-heritage collections.
 
